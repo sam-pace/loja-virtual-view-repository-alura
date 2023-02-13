@@ -1,4 +1,5 @@
-# Estudo Mysql + JAVA
+# :books: Estudo Mysql + JAVA
 
-:books:	Estudo da linguagem de banco de dados, utilizando como exemplo de uso uma aplicação Java com a API Swing.
+
+Estudo da linguagem de banco de dados, utilizando como exemplo de uso uma aplicação Java com a API Swing.
 Projeto desenvolvido durante a formação ONE: Oracle Next Education.
